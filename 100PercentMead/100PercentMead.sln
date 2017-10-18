@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100PercentMead", "100PercentMead.csproj", "{4C7B62A5-47E3-6571-3A50-C507DD69B0C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100PercentMead.Editor", "100PercentMead.Editor.csproj", "{7A2F25AC-1861-9363-C170-D429E8FB96BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C7B62A5-47E3-6571-3A50-C507DD69B0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7B62A5-47E3-6571-3A50-C507DD69B0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7B62A5-47E3-6571-3A50-C507DD69B0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7B62A5-47E3-6571-3A50-C507DD69B0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2F25AC-1861-9363-C170-D429E8FB96BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2F25AC-1861-9363-C170-D429E8FB96BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2F25AC-1861-9363-C170-D429E8FB96BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2F25AC-1861-9363-C170-D429E8FB96BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
